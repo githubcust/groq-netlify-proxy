@@ -21,7 +21,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/.netlify/functions/proxy"
+      "destination": "/.netlify/functions/proxy.ts"
     }
   ]
 }
